@@ -1,2 +1,3 @@
 # trial2
-1st time using git
+i am editing the README file.adding some more details about the project
+description
